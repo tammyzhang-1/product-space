@@ -1,6 +1,6 @@
 # Product Space
 
-Implementing a product space visualization. This app was set up using Vite (React + TypeScript), with D3.js being used to render SVG graphics.
+Implementing a product space visualization. This app was set up using Vite (React + TypeScript), with D3.js being used to render SVG graphics. See the live deployed site [here](https://tammy-zhang.com/product-space/).
 
 ## Prerequisites
 Make sure you have the following installed:
